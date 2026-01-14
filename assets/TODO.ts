@@ -1,14 +1,7 @@
-import { _decorator, Component, Node } from 'cc';
-const { ccclass, property } = _decorator;
-
-@ccclass('TODO')
-export class TODO extends Component {
-    start() {
-
-    }
-
-    update(deltaTime: number) {
-        
-    }
-}
-
+// 要求：复刻一个与【Game7_Playable_Demo.html】链接中可试玩程序一样的游戏demo，
+// 要实现的；
+// 1拖拽块移动(而不是选中移动)
+// 2下落的时候块要有回弹动画
+// 3需要有白框收集图标
+// 4块不是同一时间下落的，它们之间是有时间间隔的
+// 5没有明显bug

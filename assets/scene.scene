@@ -597,6 +597,14 @@
         "__expectedType__": "cc.SpriteFrame"
       }
     ],
+    "basketPrefab": {
+      "__uuid__": "3d2e79be-5758-436e-ae73-c03b5ac0a7c4",
+      "__expectedType__": "cc.Prefab"
+    },
+    "fruitSprite": {
+      "__uuid__": "b5787145-ba07-49bc-ae2e-e00cbf2c54fb@f9941",
+      "__expectedType__": "cc.SpriteFrame"
+    },
     "itemSize": 75,
     "bgLayer": {
       "__id__": 10

@@ -73,8 +73,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 340,
-      "height": 501
+      "width": 68,
+      "height": 100.2
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -115,7 +115,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 1,
+    "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -141,6 +141,7 @@
       "__id__": 0
     },
     "fileId": "c9i+NVP+tBL5AcFfrs/Wmu",
+    "instance": null,
     "targetOverrides": null
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "__type__": "cc.Prefab",
-    "_name": "guolan",
+    "_name": "basket",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_native": "",
@@ -13,7 +13,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "guolan",
+    "_name": "basket",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": null,
@@ -76,8 +76,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 300,
-      "height": 300
+      "width": 150,
+      "height": 150
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -136,7 +136,7 @@
     "fileId": "fdk7vNqrBGBI5l8zHPFJ9S"
   },
   {
-    "__type__": "5b585xsPWBKToKvY1sJwRvo",
+    "__type__": "d3a8amCSMNNV6GoOojv7Tq3",
     "_name": "",
     "_objFlags": 0,
     "__editorExtras__": {},
@@ -147,15 +147,11 @@
     "__prefab": {
       "__id__": 7
     },
-    "fruitPrefab": {
-      "__uuid__": "97af4906-9009-4886-a319-2798116025a2",
-      "__expectedType__": "cc.Prefab"
-    },
     "_id": ""
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "2f0CXNFhJPJKxPFWeDe1VO"
+    "fileId": "86mF0B5k9Cz7COVZN1SRhw"
   },
   {
     "__type__": "cc.PrefabInfo",

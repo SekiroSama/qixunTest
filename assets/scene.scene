@@ -547,8 +547,8 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 40,
-      "height": 40
+      "width": 600,
+      "height": 600
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -603,6 +603,9 @@
     },
     "itemLayer": {
       "__id__": 12
+    },
+    "goalNode": {
+      "__id__": 16
     },
     "_id": "00f4VpfqFIb7t1euG8RmCq"
   },
